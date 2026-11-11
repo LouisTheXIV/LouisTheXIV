@@ -1,6 +1,6 @@
-<b>i'm Matei</b><br>
+<b>I'm Matei</b><br>
 an aspiring software engineer and mathematics student<br>
-`» bachelor` mathematics and computing at universidad carlos III madrid<br>
+`» bachelor in` mathematics and computing at universidad carlos III madrid<br>
 
 
 <a href="https://notjustanothercoder.itch.io/"><img src="https://img.shields.io/badge/Itch-%23000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"></a>
